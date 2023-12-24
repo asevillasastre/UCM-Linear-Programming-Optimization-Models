@@ -1,0 +1,24 @@
+TECO 8/3
+
+MODELOS:
+- mezclas
+- transporte academico
+- transporte industrial
+- transbordo academico
+- transbordo industrial 1arest? 3arest!
+- asignacion
+- mochila
+- recubrimiento 1rest!
+- empaquetado
+- particion
+- viajante 1
+- viajante 2 4rest!
+- viajante 3 3rest!
+- rutas
+- ruta mercados
+- DISYUNCIONES
+- TABLA LOGICA
+- K ECUACIONES DE N
+- ELEGIR ENTRE N VALORES
+- COSTES REBAJAS
+
