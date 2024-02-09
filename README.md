@@ -5,8 +5,8 @@ Exercises solved during the subject taught by Begoña Vitoriano and María Teres
 Reports of the work in pdf and the GAMS code are included.
 
 ### Content
-- [Location and Distribution models, using multicriteria techniques. Case study: Niger](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/tree/main/Niger-location-and-distribution-problem).
-- [Hydrothermal Coordination models, using stochastic programming](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/tree/main/hydroelectric-coordination-problem).
+- [Location and Distribution models](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/tree/main/Niger-location-and-distribution-problem), using multicriteria techniques. Case study: Niger.
+- [Hydrothermal Coordination models](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/tree/main/hydroelectric-coordination-problem), using stochastic programming.
 - There is some [extra exercises](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/tree/main/other-exercises).
 
 ### Author
