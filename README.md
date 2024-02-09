@@ -1,7 +1,7 @@
 # Linear Modeling Workshop: Location-Distribution and Hydrothermal Coordination Models
 
 ### Abstract
-Exercises solved during the subject taught by Begoña Vitoriano and María Teresa Ortuño in the 2022/2023 academic year.
+Exercises solved during the subject taught by Begoña Vitoriano and María Teresa Ortuño in the 2021/2022 academic year.
 Reports of the work in pdf and the GAMS code are included.
 
 ### Content
